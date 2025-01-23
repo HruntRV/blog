@@ -1,10 +1,10 @@
 echo "BUILD START"
 
 # create a virtual environment named 'venv' if it doesn't already exist
-python3.13 -m venv venv
+python -m venv venv
 
 # activate the virtual environment
-source myvenv/bin/activate
+source venv/Scripts\activate
 
 # install all deps in the venv
 pip install -r requirements.txt
