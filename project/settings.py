@@ -100,7 +100,7 @@ DATABASES = {
         "NAME": "blogdb",
         "USER": "blog_user",
         "PASSWORD": "1111",
-        "HOST": "blog-eight-omega.vercel.app",
+        "HOST": "0.0.0.0.",
         "PORT": "5432",
     }
 }
