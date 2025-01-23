@@ -100,7 +100,7 @@ DATABASES = {
         "NAME": "blogdb",
         "USER": "blog_user",
         "PASSWORD": "1111",
-        "HOST": "blog-ruddy-three-20.vercel.app",
+        "HOST": "localhost",
         "PORT": "5432",
     }
 }
